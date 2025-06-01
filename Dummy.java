@@ -12,16 +12,13 @@ public class Dummy {
         this.ssn = ssn;
     }
 
-    public static void main(String[] args) {
-
-        System.out.println("Hello World");
-
-
-
-        public void thisIsANewMethod() {
+    public void thisIsANewMethod() {
 
         }
 
+    public static void main(String[] args) {
+
+        System.out.println("Hello World");
         
         System.out.println("Das ist mein Satz")
     }
