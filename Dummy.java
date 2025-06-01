@@ -24,7 +24,7 @@ public class Dummy {
 
 
         public void thisIsANewMethod() {
-            System.out.println("Das ist mein Satz")
+            System.out.println("Das ist mein Satz");
         }
 
     }
