@@ -5,5 +5,12 @@ public class Dummy {
 
 
         System.out.println("Hello World");
+
+
+
+        public void thisIsANewMethod() {
+
+        }
+
     }
 }
