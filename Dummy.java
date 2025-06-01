@@ -3,10 +3,10 @@
 public class Dummy {
 
     String name;
-    int age;
+    String age;
     int ssn;
 
-    DUMMY(String name, int age, int ssn) {
+    DUMMY(String name, String age, int ssn) {
         this name = name;
         this.age = age;
         this.ssn = ssn;
@@ -20,12 +20,12 @@ public class Dummy {
 
 
         public void thisIsANewMethod() {
-
+            System.out.println("Das ist mein Satz")
         }
 
 =======
         
-        System.out.println("Das ist mein Satz")
+
 >>>>>>> e958e0ae4b67740cb5a56d1195bc5b13c5c7f82d
     }
 }
