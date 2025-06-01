@@ -15,7 +15,6 @@ public class Dummy {
     public static void main(String[] args) {
 
         System.out.println("Hello World");
-<<<<<<< HEAD
 
 
 
@@ -23,9 +22,5 @@ public class Dummy {
             System.out.println("Das ist mein Satz")
         }
 
-=======
-        
-
->>>>>>> e958e0ae4b67740cb5a56d1195bc5b13c5c7f82d
     }
 }
